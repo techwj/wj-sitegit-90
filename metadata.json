@@ -1,0 +1,59 @@
+{
+  "siteId": "hidden-storage-techniques",
+  "generatedAt": "2026-06-04T11:35:09.210951",
+  "categories": [
+    "beginner-hidden-storage-techniques",
+    "advanced-hidden-storage-techniques",
+    "tips-hidden-storage-techniques",
+    "history-hidden-storage-techniques",
+    "trending-hidden-storage-techniques",
+    "tutorials-hidden-storage-techniques"
+  ],
+  "categoryData": [
+    {
+      "category_slug": "beginner-hidden-storage-techniques",
+      "category_name": "Beginner Hidden Storage Techniques"
+    },
+    {
+      "category_slug": "advanced-hidden-storage-techniques",
+      "category_name": "Advanced Hidden Storage Techniques"
+    },
+    {
+      "category_slug": "tips-hidden-storage-techniques",
+      "category_name": "Hidden Storage Techniques Tips"
+    },
+    {
+      "category_slug": "history-hidden-storage-techniques",
+      "category_name": "Hidden Storage Techniques History"
+    },
+    {
+      "category_slug": "trending-hidden-storage-techniques",
+      "category_name": "Trending Hidden Storage Techniques"
+    },
+    {
+      "category_slug": "tutorials-hidden-storage-techniques",
+      "category_name": "Hidden Storage Techniques Tutorials"
+    }
+  ],
+  "articleCount": 60,
+  "design": {
+    "site_id": "hidden-storage-techniques",
+    "color_scheme": {
+      "name": "Warm Orange",
+      "primary": "#c2410c",
+      "secondary": "#f97316",
+      "accent": "#fdba74",
+      "background": "#fff7ed",
+      "text": "#7c2d12",
+      "light": "#ffedd5"
+    },
+    "font": {
+      "family": "Inter, system-ui, -apple-system, sans-serif",
+      "heading": "Inter",
+      "body": "Inter"
+    },
+    "layout": "sidebar",
+    "site_title": "Hidden Storage Techniques Central",
+    "articles_per_row": 3
+  }
+}
